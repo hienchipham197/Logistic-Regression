@@ -1,3 +1,4 @@
-# Logistic-Regression
-# Name des Projekts: Logistische Regression Projekt
-In diesem Projekt werden wir mit Fake-Daten zu Werbung arbeiten, die aufzeigen, ob ein Nutzer auf eine Werbeanzeige auf einer Webseite einer Firma geklickt hat oder nicht. Wir werden versuchen ein Modell zu erstellen, das anhand von Nutzereigenschaften vorhersagt, ob dieser auf die Werbung klicken wird oder nicht.
+# Name of project: Logistic Regression Project
+In this project we will work with fake advertising data that shows whether a user has clicked on an advert on a company's website or not. We will try to create a model that predicts whether the user will click on the advert or not based on user characteristics.
+
+Try it on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/Logistic-Regression/HEAD)
