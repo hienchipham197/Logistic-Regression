@@ -5,7 +5,7 @@ In this project we will work with fake advertising data that shows whether a use
 Try it on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/Logistic-Regression/HEAD)
 
 ## Execution
-To run this Jupyter Notebook, you need to go to the link of the above mentioned Binder Badge. Make sure that all necessary libraries are installed (e.g. numpy, pandas, matplotlib, scikit-learn). Then run each cell from top to bottom to complete the project.
+To run this Jupyter Notebook, you need to go to the link of the above mentioned Binder Badge. Open the notebook "3-Logistische_Regression_Projekt-Loesung.ipynb". Then run each cell from top to bottom to complete the project.
 
 ## Expected results
 After running the logistic regression, you can expect to get a model that is able to make predictions with a high accuracy of 91%. The performance metrics show the following values:
