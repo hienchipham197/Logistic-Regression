@@ -10,7 +10,7 @@ To run this Jupyter Notebook, you need to go to the link of the above mentioned 
 ## Expected results
 After running the logistic regression, you can expect to get a model that is able to make predictions with a high accuracy of 91%. The performance metrics show the following values:
 
-- For class 0 (e.g. not applicable), the model achieves a precision of 0.86, a recall of 0.96 and an F1 score of 0.91.
-- For class 1 (e.g. applicable), the model shows a precision of 0.96, a recall of 0.85 and an F1 score of 0.90.
+- For class 0 (Customer did not clicked on Ad), the model achieves a precision of 0.86, a recall of 0.96 and an F1 score of 0.91.
+- For class 1 (Customer clicked on Ad), the model shows a precision of 0.96, a recall of 0.85 and an F1 score of 0.90.
 
 These metrics illustrate that the model is effective in identifying both Class 0 and Class 1, with balanced performance between precision and recall and high F1 scores for both classes. The results emphasise the model's ability to provide reliable predictions, showing almost equal efficiency in identifying both categories.
